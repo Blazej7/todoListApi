@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Blazej7/todoListApi/issues"
   },
-  "homepage": "https://github.com/Blazej7/todoListApi#readme"
+  "homepage": "https://github.com/Blazej7/todoListApi#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
